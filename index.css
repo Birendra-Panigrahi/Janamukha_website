@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(227, 235, 235);
+}
+
+.main {
+    display: flex;
+}
+
+.header {
+    background-color: bisque;
+}
+
+.link {
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+
+h1 {
+    color: blue;
+}
